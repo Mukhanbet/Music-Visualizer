@@ -1,10 +1,11 @@
 {
   "name": "audiovisualizer",
   "version": "1.0.0",
-  "description": "How To Create A 3D Audio Visualizer Using Three.js https://youtu.be/qDIF2z_VtHs",
-  "main": "index.js",
+  "description": "A 3D Audio Visualizer Using Three.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build ./src/index.html --public-url ./",
+    "start": "parcel ./src/index.html"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +16,7 @@
   },
   "devDependencies": {
     "@parcel/config-default": "^2.4.0",
-    "parcel": "^2.7.0",
+    "parcel": "^2.13.2",
     "parcel-reporter-static-files-copy": "^1.3.4"
   },
   "staticFiles": {
