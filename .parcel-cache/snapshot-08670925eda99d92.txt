@@ -1,4 +1,4 @@
-5297
+5299
 90D:\frontend\Music-Visualizer\node_modules\three\src\renderers\webgl\WebGLUniformsGroups.js133783131134175184 0
 59D:\frontend\Music-Visualizer\node_modules\@msgpackr-extract133783131327925661 1
 77D:\frontend\Music-Visualizer\node_modules\update-browserslist-db\package.json133783131122629860 0
@@ -10,7 +10,7 @@
 97D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\dom-serializer\lib\index.d.ts.map133783131123527391 0
 76D:\frontend\Music-Visualizer\node_modules\@parcel\core\lib\CommittedAsset.js133783131125576014 0
 72D:\frontend\Music-Visualizer\node_modules\type-fest\ts41\kebab-case.d.ts133783131124129646 0
-41D:\frontend\Music-Visualizer\package.json133783134325565594 0
+41D:\frontend\Music-Visualizer\package.json133783134965038438 0
 33D:\frontend\Music-Visualizer\dist133783134415100755 1
 48D:\frontend\Music-Visualizer\node_modules\base-x133783131122199558 1
 95D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\ViewportDepthNode.js133783131133735025 0
@@ -21,6 +21,16 @@
 39D:\frontend\Music-Visualizer\.gitignore133783126364296088 0
 73D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\regions\WF.js133783131132580855 0
 85D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\functions\material133783131129403943 1
+53D:\frontend\Music-Visualizer\node_modules\ansi-styles133783131122338125 1
+80D:\frontend\Music-Visualizer\node_modules\@swc\helpers\esm\_non_iterable_rest.js133783131127066999 0
+67D:\frontend\Music-Visualizer\node_modules\node-addon-api\LICENSE.md133783131124223512 0
+91D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\utils\MaxMipLevelNode.js133783131130822108 0
+60D:\frontend\Music-Visualizer\node_modules\.package-lock.json133783131328658306 0
+78D:\frontend\Music-Visualizer\node_modules\@parcel\types-internal\lib\Glob.d.ts133783131124251615 0
+92D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\ColorSpaceNode.js133783131127562918 0
+56D:\frontend\Music-Visualizer\node_modules\@parcel\fs\src133783131123435721 1
+92D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\entities\lib\encode.d.ts.map133783131124129646 0
+35D:\frontend\Music-Visualizer\static133783141559679360 1
 110D:\frontend\Music-Visualizer\node_modules\three\src\renderers\shaders\ShaderChunk\lights_toon_fragment.glsl.js133783131130314767 0
 76D:\frontend\Music-Visualizer\node_modules\type-fest\source\set-optional.d.ts133783131124875661 0
 78D:\frontend\Music-Visualizer\node_modules\@swc\helpers\cjs\_async_iterator.cjs133783131123324813 0
@@ -54,11 +64,6 @@
 83D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\features\font-smooth.js133783131129072085 0
 35D:\frontend\Music-Visualizer\src\js133783122204115501 1
 46D:\frontend\Music-Visualizer\node_modules\.bin133783131135427765 1
-53D:\frontend\Music-Visualizer\node_modules\ansi-styles133783131122338125 1
-80D:\frontend\Music-Visualizer\node_modules\@swc\helpers\esm\_non_iterable_rest.js133783131127066999 0
-67D:\frontend\Music-Visualizer\node_modules\node-addon-api\LICENSE.md133783131124223512 0
-91D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\utils\MaxMipLevelNode.js133783131130822108 0
-60D:\frontend\Music-Visualizer\node_modules\.package-lock.json133783131328658306 0
 64D:\frontend\Music-Visualizer\node_modules\js-yaml\lib\snippet.js133783131124745249 0
 73D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\regions\NI.js133783131130934036 0
 67D:\frontend\Music-Visualizer\node_modules\@parcel\utils\src\blob.js133783131123058346 0
@@ -246,15 +251,6 @@
 73D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\regions\LT.js133783131130426416 0
 67D:\frontend\Music-Visualizer\node_modules\three\src\objects\Bone.js133783131126624683 0
 49D:\frontend\Music-Visualizer\node_modules\is-json133783131122629860 1
-79D:\frontend\Music-Visualizer\node_modules\@parcel\transformer-svg\lib\inline.js133783131122348145 0
-97D:\frontend\Music-Visualizer\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133783131125626455 0
-81D:\frontend\Music-Visualizer\node_modules\three\src\renderers\webgl\WebGLState.js133783131134145185 0
-76D:\frontend\Music-Visualizer\node_modules\@parcel\core\lib\PackagerRunner.js133783131126423731 0
-95D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts.map133783131123435721 0
-67D:\frontend\Music-Visualizer\node_modules\three\src\lights\Light.js133783131130022548 0
-94D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\renderers\common\RenderContext.js133783131132245924 0
-64D:\frontend\Music-Visualizer\node_modules\picomatch\package.json133783131123199249 0
-69D:\frontend\Music-Visualizer\node_modules\lightningcss-win32-x64-msvc133783131122139515 1
 106D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\renderers\webgpu\utils\WebGPUPipelineUtils.js133783131134232900 0
 110D:\frontend\Music-Visualizer\node_modules\three\src\renderers\shaders\ShaderChunk\skinning_pars_vertex.glsl.js133783131132835180 0
 51D:\frontend\Music-Visualizer\node_modules\js-tokens133783131122326958 1
@@ -267,6 +263,15 @@
 69D:\frontend\Music-Visualizer\node_modules\domelementtype\package.json133783131122585788 0
 91D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\renderers\common\Attributes.js133783131126224387 0
 94D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\materialx\MaterialXNodes.js133783131130737047 0
+79D:\frontend\Music-Visualizer\node_modules\@parcel\transformer-svg\lib\inline.js133783131122348145 0
+97D:\frontend\Music-Visualizer\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133783131125626455 0
+81D:\frontend\Music-Visualizer\node_modules\three\src\renderers\webgl\WebGLState.js133783131134145185 0
+76D:\frontend\Music-Visualizer\node_modules\@parcel\core\lib\PackagerRunner.js133783131126423731 0
+95D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts.map133783131123435721 0
+67D:\frontend\Music-Visualizer\node_modules\three\src\lights\Light.js133783131130022548 0
+94D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\renderers\common\RenderContext.js133783131132245924 0
+64D:\frontend\Music-Visualizer\node_modules\picomatch\package.json133783131123199249 0
+69D:\frontend\Music-Visualizer\node_modules\lightningcss-win32-x64-msvc133783131122139515 1
 107D:\frontend\Music-Visualizer\node_modules\three\src\renderers\shaders\ShaderChunk\lights_pars_begin.glsl.js133783131130294781 0
 59D:\frontend\Music-Visualizer\node_modules\lines-and-columns133783131122159590 1
 86D:\frontend\Music-Visualizer\node_modules\entities\lib\generated\decode-data-html.d.ts133783131125626455 0
@@ -1817,9 +1822,6 @@
 88D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\features\devicepixelratio.js133783131128467092 0
 71D:\frontend\Music-Visualizer\node_modules\react-error-overlay\README.md133783131123254364 0
 90D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\shaders\TriangleBlurShader.js133783131133427621 0
-66D:\frontend\Music-Visualizer\node_modules\is-arrayish\package.json133783131121280601 0
-93D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\accessors\ReferenceNode.js133783131132245924 0
-85D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\features\link-icon-svg.js133783131130395933 0
 68D:\frontend\Music-Visualizer\node_modules\@parcel\graph\lib\types.js133783131124251615 0
 59D:\frontend\Music-Visualizer\node_modules\@parcel\graph\lib133783131124251615 1
 90D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\shaders\VerticalBlurShader.js133783131133728028 0
@@ -2067,10 +2069,6 @@
 89D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\BumpMapNode.js133783131126995378 0
 68D:\frontend\Music-Visualizer\node_modules\msgpackr-extract\README.md133783131122826317 0
 97D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\ColorAdjustmentNode.js133783131127427125 0
-78D:\frontend\Music-Visualizer\node_modules\@parcel\types-internal\lib\Glob.d.ts133783131124251615 0
-92D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\ColorSpaceNode.js133783131127562918 0
-56D:\frontend\Music-Visualizer\node_modules\@parcel\fs\src133783131123435721 1
-92D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\entities\lib\encode.d.ts.map133783131124129646 0
 91D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\NormalMapNode.js133783131131426186 0
 78D:\frontend\Music-Visualizer\node_modules\@swc\helpers\esm\_define_property.js133783131126825499 0
 91D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\display\PosterizeNode.js133783131132064105 0
@@ -2138,6 +2136,9 @@
 92D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\accessors\InstanceNode.js133783131129824590 0
 84D:\frontend\Music-Visualizer\node_modules\@parcel\transformer-image\lib\loadSharp.js133783131122306964 0
 92D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\accessors\MaterialNode.js133783131130737047 0
+66D:\frontend\Music-Visualizer\node_modules\is-arrayish\package.json133783131121280601 0
+93D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\accessors\ReferenceNode.js133783131132245924 0
+85D:\frontend\Music-Visualizer\node_modules\caniuse-lite\data\features\link-icon-svg.js133783131130395933 0
 89D:\frontend\Music-Visualizer\node_modules\three\examples\jsm\nodes\accessors\SceneNode.js133783131132600857 0
 68D:\frontend\Music-Visualizer\node_modules\lightningcss\node\index.js133783131123527391 0
 105D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.js133783131122629860 0
@@ -2730,8 +2731,8 @@
 88D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\domhandler\lib\node.d.ts133783131123324813 0
 92D:\frontend\Music-Visualizer\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133783131123944294 0
 86D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\dom-serializer\LICENSE133783131121415780 0
-91D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\dom-serializer\node_modules133783131109187641 1
 67D:\frontend\Music-Visualizer\node_modules\@parcel\watcher-win32-x64133783131122139515 1
+91D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\dom-serializer\node_modules133783131109187641 1
 62D:\frontend\Music-Visualizer\node_modules\picocolors\README.md133783131122368116 0
 91D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\dom-serializer\package.json133783131123118377 0
 88D:\frontend\Music-Visualizer\node_modules\posthtml\node_modules\dom-serializer\README.md133783131123627804 0
@@ -5296,3 +5297,4 @@
 57D:\frontend\Music-Visualizer\node_modules\.bin\semver.cmd133783131135427765 0
 69D:\frontend\Music-Visualizer\node_modules\.bin\update-browserslist-db133783131135427765 0
 73D:\frontend\Music-Visualizer\node_modules\.bin\update-browserslist-db.ps1133783131135427765 0
+40D:\frontend\Music-Visualizer\dist\assets133783141880939928 1
