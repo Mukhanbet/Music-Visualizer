@@ -4,7 +4,7 @@
   "description": "A 3D Audio Visualizer Using Three.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build ./src/index.html --public-url ./",
+    "build": "parcel build ./src/index.html --public-url ./ && mv dist/* docs/",
     "start": "parcel ./src/index.html"
   },
   "keywords": [],
